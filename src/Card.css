@@ -1,0 +1,26 @@
+.card {
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+    width: 33%;
+    float: left;
+    border: .5px solid black;
+    
+  }
+  
+.card-title {
+    position: relative;
+    text-align: center;
+}
+  
+.card-numbers {
+    border-top: double;
+    float: center;
+}
+  
+.card-numbers th, .card-numbers td {
+    border: .5px solid black;
+    padding: 5px 5px 5px 5px;
+    font-size: 20px;
+
+}

@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import './Board.css';
-import Board from './Board';
+import './Card.css'
+import './CardContainer.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-    <Board />,
+    <App />,
   document.getElementById('root')
 );
 
